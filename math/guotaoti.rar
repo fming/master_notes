@@ -1,0 +1,234 @@
+﻿<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Sujian Li's Homepage</title>
+<meta name=keywords content="Li Sujian">
+<meta name=description content="Li sujian's homepage at ICL">
+<meta name=abstract content="Li sujian's homepage at ICL">
+</head>
+
+<body>
+	
+               	
+<p align="center">
+  <strong>
+    Welcome, There have been 
+    <?php include('./scripts/count.php'); ?> visitors.  </strong></p>
+
+<table border="0" cellpadding="5" width="98%" height="70">
+  <TBODY>
+  <tr>
+    <td valign="bottom" width="19%" align="left"><img src="lsjian.JPG" alt="photo" width="170" height="197"></td>
+
+    <td valign="bottom" width="34%" align="left" height="46"><br>
+    	<b><font size="6">Li Sujian</font></b><br>  
+    	<b><font size="3">Associate Professor</font></b>
+      <p><font size="3"><a href="http://icl.pku.edu.cn/">Institute
+      of Computational Linguistics</a><br>
+      <a href="http://www.pku.edu.cn">Peking University</a><br>
+      Beijing, China, 100871</font></p>    </td>
+      
+    <td valign="bottom" width="47%" align="left" height="46">　<font size="5"><b><font size="5"><b><font size="7"></font></b></font></b></font>
+      <p><font size="3"><i>Tel</i>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 86-10-6275
+      3081 ext 105&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+      <em>Email</em>:&nbsp;&nbsp;&nbsp; </font><a href="mailto:lisujian@pku.edu.cn"><font
+        size="3">lisujian at pku dot edu dot cn<br>
+      </font></a><font size="3"><i>Homepage</i>: </font><a href="http://123.56.88.210/"><font
+        size="3">http://123.56.88.210/</font></a></p>
+      </td>
+    </tr>
+</TBODY></table>
+	
+<tr style='mso-yfti-irow:2;height:15.0pt'>
+  <td width=50 style='width:37.5pt;padding:0cm 0cm 0cm 0cm;height:15.0pt'></td>
+  <td width=750 colspan=3 valign=top style='width:562.5pt;padding:0cm 0cm 0cm 0cm;
+  height:15.0pt'>
+  <div class=MsoNormal align=center style='text-align:center'><span lang=EN-US>
+  <hr size=2 width="100%" align=center>
+  </span></div>
+  </td>
+</tr> 
+
+  <h3>Research Interests</h3>
+  I am interested in several research topics including document summarization, text generation, discourse parsing, machine comprehension and information extraction.
+ <ul>
+<li><p>	<strong>Automatic Summarization and Text Generation </strong> (ACL 2018, AAAI 2018, AAAI 2017, COLING 2016, ACL 2015, TACL 2013, ACL 2013, COLING 2012, KDD 2012, CIKM 2007) </p></li>
+<li><p> <strong> Information Extraction </strong> (ACL 2016, NAACL 2016, EMNLP 2016, COLING 2016, NAACL 2015, ACL 2015, EMNLP 2014, SIGIR 2013, ACL 2010) </p></li>
+<li><p> <strong> Discourse Analysis </strong> (ACL 2018, EMNLP 2018, ACL 2017, EMNLP 2017, EMNLP 2016, AAAI 2016, ACL 2014, EMNLP 2012) </p> </li>
+<li><p> Application Research, including Machine Comprehension (ACL 2018, COLING 2018), Sentiment Analysis (EMNLP 2018, IJCAI 2017) and Social Media Application (ACL 2015, ACL 2013) </p></li>
+<li><p>	Basic Research in NLP, including Chunking, Semantic Computation, Textual Entailment Recognition (COLING 2016, EMNLP 2015, COLING 2012, Chinese Journal of Computers 2004, Computational Linguistics and Chinese Language Processing 2002) </p></li>
+</ul>
+ 
+<h3>Research Group: <a href="https://github.com/PKU-TANGENT">Text ANalysis and GEneration Technology Group</a> </h3>
+
+	
+<h3>Publications</h3>
+<ul>
+
+<li><p><a href="http://123.56.88.210/pub.html"><strong>Selected Publications </strong> </a></p></li>
+<li><p><a href="https://scholar.google.com/citations?user=RvBDhSwAAAAJ&hl=en"><strong>Google Scholar</strong></a></p></li>
+<li><p><a href="https://dblp.uni-trier.de/search?q=sujian+li"><strong>DBLP</strong> </a></p></li>
+</ul>
+
+
+	
+<h3>Academic Activities</h3>
+<ul>
+<li> 
+  		<p> 
+  			<strong> Publication Chair </strong>: NLPCC 2018
+  		</p>
+  	</li>
+
+     <li> 
+  		<p> 
+  			<strong> Area Chair:  </strong>: COLING 2018
+  		</p>
+  	</li>  
+  	
+     <li> 
+  		<p> 
+  			<strong> Senior Program Committee(SPC): </strong>: IJCAI 2018
+  		</p>
+  	</li>   	
+
+     <li> 
+  		<p> 
+  			<strong> Area Chair (Discourse): </strong>: ACL 2017
+  		</p>
+  	</li>   	
+     	     	
+     <li> 
+  		<p> 
+  			<strong> Area Chair (Language Resource and Evaluation): </strong>: CCL 2017
+  		</p>
+  	</li>   	
+     	     	
+     <li> 
+  		<p> 
+  			<strong> Area Chair (Conversational Bot/Summarization/Discourse): </strong>: NLPCC 2016
+  		</p>
+  	</li>
+
+     <li> 
+  		<p> 
+  			<strong> Area Chair (Text Classification and Summarization): </strong>: CCL 2015
+  		</p>
+  	</li>
+     	
+     <li> 
+  		<p> 
+  			<strong> Program Committee Member </strong> of most major conferences (e.g., ACL, AAAI, COLING, CIKM, EMNLP, IJCAI, NAACL, SIGIR, WWW) and journals (e.g., TKDE, CL, IEEE ASLP, IPM) in the field. 
+  		</p>
+    	</li>    	
+</ul>
+
+<h3>Code and Demo</h3>
+<ul>
+	
+<li><p><a href="https://github.com/intfloat/TextLevelDiscourseParser" >  Text-level Discourse Dependency Parser </a> , Viewed <?php $source_id='dep'; include('./scripts/stat.php'); ?> times. </p></li>	
+	
+<li>
+	<p> <a href="/demo/depannotate/">Discourse Dependency Annotation Tool</a>
+  , Viewed <?php $source_id='annotate'; include('./scripts/stat.php'); ?> times.
+  </p>
+</li>	
+	
+<li> <p> <a href="/demo/eduseg/"> Elementary Discourse Unit Segmentation Demo</a> , Viewed <?php $source_id='annotate'; include('./scripts/stat.php'); ?> times.
+</p>	
+	</li>	
+	
+<li> <p> <a href="/demo/seg/">Text Segmentation Online Demo</a>
+  ,<a target="_blank" href="/scripts/stat.php?id=demosite&redirect=https://github.com/yangapku/demosite">code</a> available, Viewed <?php $source_id='demosite'; include('./scripts/stat.php'); ?> times.
+</p>
+</li>	
+	
+<li>
+<p> <a href="/demo/keyword/">Keyword Extraction Online Demo
+  </a>, Viewed <?php $source_id='keyword_demo'; include('./scripts/stat.php'); ?> times.
+  </p>
+</li>
+</ul>
+
+<h3>  Teaching </h3>
+<ul>
+<li><p> <a href="discretemath.htm">Set Theory and Graph Theory</a></p></li>
+<li><p><a href="combinatorics.htm"> Algebraic System and Combinatorial Mathematics </a></p></li>
+<li><p>Statistical Analysis and Corpus Linguistics</p></li>
+</ul>
+
+<h3> Graduate Students</h3>
+I have been incredibly lucky to serve as their advisor and have learned a lot from them.
+<ul>
+	<li><strong> You Ouyang </strong> </li>
+	<li><strong> Yu Zhang </strong> </li>
+	<li><strong> Wei Wang </strong> </li>
+	<li><strong> Chen Wang </strong> </li>
+	<li><strong> Tao Song </strong> </li>
+	<li><strong> <a href="http://www.kecl.ntt.co.jp/icl/lirg/members/wang/">Xun Wang </a></strong> </li>
+	<li><strong> Yuxin Wang </strong></li>
+	<li><strong> <a href="http://www4.comp.polyu.edu.hk/~cszqcao/"> Ziqiang Cao</a> </strong> </li>
+	<li><strong> <a href="http://nlp-yang.github.io/"> Yang Liu </a> </strong> </li>
+	<li><strong> <a href="https://github.com/intfloat"> Liang Wang </a></strong> </li>
+	<li><strong>  <a href="http://yizhong-wang.com/"> Yizhong Wang </a> </strong> </li>
+	<li><strong> <a href="https://github.com/yangapku"> An Yang </a></strong> </li>
+	<li><strong> Wenhao Wu </strong> </li>
+</ul>	
+	
+<h3>Research Grants</h3>
+<ul>
+<li> <p> National Natural Science Foundation of China (NSFC) Grant, No. 61876009. Research of Reading Comprehension Based on Question Prediction and Text Generation, 2019.1-2022.12.
+		</p> </li>
+<li> <p> National Natural Science Foundation of China (NSFC) Grant, No. 61572049. Research on Summarizing Scientific Literature with Citation Network, 2016.1-2019.12. 
+	</p> </li>
+<li> <p>  Baidu Inc. Grant, Developing Reading Comprehension System. 2017.9-2018.9.
+		</p> </li>	
+<li> 
+	<p> National Natural Science Foundation of China (NSFC) Grant, No. 61273278. Hot Topic Detection and Summarization Based on Hetero-structural text stream, 2013.1-2016.12. 
+	</p> </li>	
+<li>
+	<p> Baidu Inc. Grant, Text Topic Segmentation and Indexing. 2015.9-2016.9.
+	</p> </li>	
+<li> <p> National Science and Technology Supporting Plan Grant, Research on Deep Semantic Annotation.  No. 2011BAH10B04. 2011.7-2015.4.
+	</p> </li>	
+<li><p> National Social Science Foundation of China Young Scholar Grant, Research on Discourse Annotation and Parsing. No. 10CYY023, 2010.1-2012.12.
+		</p></li>	
+<li><p> National Natural Science Foundation of China (NSFC) Cultivating Grant, No. 90920011. Chinese Semantic Computation and Its Application on Text Entailment, 2010.1-2012.12.
+	</p></li>	
+
+<li> 
+	<p>  National Natural Science Foundation of China (NSFC) Grant, No. 60875042. Research on Discourse Parsing and Its Application in Automatic Summarization, 2009.1-2011.12.
+		</p>
+</li>
+
+<li>
+	<p>  National Natural Science Foundation of China (NSFC) Young Scholar Grant, Topic Indexing With Identifying Phrases and Domain Concepts. No. 60603093. 2007.1-2009.12.
+	</p> </li>
+<li><p>IBM Visiting Program 2014
+	</p></li>		
+<li>
+	<p> East Linden Corp. Grant, Keyword indexing for Patents. 2006.9-2007.9.
+	</p></li>
+</ul>
+
+
+
+<br>
+<br>
+
+<hr size=2 width=600 style='width:450.0pt' align=center>
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US>[<a
+href="mailto:%20lisujian@pku.edu.cn"><span lang=EN-US><span lang=EN-US>Contact</span></span></a>|
+<a href="#body"><span lang=EN-US><span lang=EN-US>Homepage</span></span></a>] </span></p>
+
+
+<p class=MsoNormal align=center style='text-align:center'><span lang=EN-US>
+   August 17, 2018</span></p>
+
+<p align=center style='text-align:center'><span lang=EN-US>&copy; Copyright by 
+Sujian Li</span></p>
+
+               	
+<?php include_once("./scripts/analytics.php"); ?>	
+
+</body>
+</html>
